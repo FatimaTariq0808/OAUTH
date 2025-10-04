@@ -31,7 +31,7 @@ This project demonstrates how to implement a custom OAuth 2.0 authentication flo
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/FatimaTariq0808/OAUTH
+git clone https://github.com/FatimaTariq0808/OAUTH.git
 cd OAUTH/backend/nodeBackend
 ```
 
